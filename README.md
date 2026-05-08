@@ -17,7 +17,7 @@ The first time you open the app it comes pre-loaded with **sample data** so the 
 
 ---
 
-## Step-by-step setup (for first-time coders)
+## Step-by-step setup 
 
 You only need to do steps 1–3 once. After that, just run the command in step 4 whenever you want to use the app.
 
